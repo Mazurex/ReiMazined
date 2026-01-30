@@ -1,0 +1,16 @@
+/.cache
+/.fabric
+/.mixin.out
+/crash-reports
+/data
+/debug
+/Distant_Horizons_server_data
+/downloads
+/logs
+/mods
+/saves
+command_history.txt
+options.txt
+servers.dat
+servers.dat_old
+usercache.json

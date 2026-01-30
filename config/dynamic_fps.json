@@ -1,0 +1,6 @@
+{
+  "ignore_initial_click": "in_world",
+  "battery_tracker": {
+    "notifications": false
+  }
+}
