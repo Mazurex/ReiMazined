@@ -14,9 +14,9 @@ assignees: Mazurex
 
 ## Checklist
 
-- [] I did not add any mods to modpack.
-- [] I did not modify any configs of the modpack.
-- [] The issue is reproducible on a clean install of the modpack.
+- [ ] I did not add any mods to modpack.
+- [ ] I did not modify any configs of the modpack.
+- [ ] The issue is reproducible on a clean install of the modpack.
 
 ## Steps to reproduce
 (Step-by-step guide on how others can encounter the issue)
