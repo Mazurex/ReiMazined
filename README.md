@@ -36,7 +36,7 @@ Performance is included, but it is **not** a low-end "FPS pack", visuals and QoL
 
 Tested on:
 - Ryzen 5 5600
-- Radeon RX 9600XT 16GB
+- Radeon RX 9060XT 16GB
 - 32GB RAM (16GB allocated)
 
 If you are on a lower-end PC, you can still use ReiMazined by:
